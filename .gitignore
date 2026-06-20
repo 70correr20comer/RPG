@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+# dist/  # Removed for GitHub Pages deployment
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
